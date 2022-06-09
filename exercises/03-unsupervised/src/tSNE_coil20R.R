@@ -1,6 +1,6 @@
 # Cargamos el dataset COIL 20.
 # install.packages("devtools")
-# devtools::install_github("jlmelville/coil20")
+# devtools::install_github("lrmercadod/coil20")
 library(coil20)
 # coil20 <- download_coil20(verbose = TRUE)  # Tarda unos 3 min, solo hacerlo la primera vez
 # Para que vaya más rápido, cargamos uno ya descargado antes

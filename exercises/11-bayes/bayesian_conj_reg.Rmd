@@ -1,7 +1,7 @@
 ---
 title: "Regresión Bayesiana. Modelo conjugado"
-author: "Victor Gallego y Roi Naveiro"
-date: "20/05/2019"
+author: "Luis Roberto Mercado Diaz"
+date: "09/06/2022"
 output:
   html_document: default
   pdf_document: default

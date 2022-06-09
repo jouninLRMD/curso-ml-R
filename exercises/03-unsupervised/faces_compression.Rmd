@@ -1,7 +1,7 @@
 ---
 title: "Compresión de rostros usando Análisis de Componentes Principales"
-author: "Víctor Gallego y Roi Naveiro"
-date: "01/04/2019"
+author: "Luis Roberto Mercado Diaz"
+date: "09/06/2022"
 output:
   pdf_document: default
   html_document: default

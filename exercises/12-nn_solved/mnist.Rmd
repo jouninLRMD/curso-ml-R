@@ -1,7 +1,7 @@
 ---
 title: "Redes Neuronales para clasificación de dígitos"
-author: Victor Gallego y Roi Naveiro
-date: "30/05/2019"
+author: "Luis Roberto Mercado Diaz"
+date: "09/06/2022"
 output:
   pdf_document: default
   html_document: default

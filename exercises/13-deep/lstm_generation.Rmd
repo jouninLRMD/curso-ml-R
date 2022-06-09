@@ -1,7 +1,7 @@
 ---
 title: "LSTM para generación de texto"
-author: Victor Gallego y Alberto Torres
-date: "30/05/2019"
+author: "Luis Roberto Mercado Diaz"
+date: "09/06/2022"
 output:
   pdf_document: default
   html_document: default

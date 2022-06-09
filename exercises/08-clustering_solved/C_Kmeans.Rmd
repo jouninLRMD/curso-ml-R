@@ -1,7 +1,7 @@
 ---
 title: "K-means: los barrios de Nueva York"
-author: Victor Gallego y Roi Naveiro
-date: "10/05/2019"
+author: "Luis Roberto Mercado Diaz"
+date: "09/06/2022"
 output:
   pdf_document: default
   html_document: default

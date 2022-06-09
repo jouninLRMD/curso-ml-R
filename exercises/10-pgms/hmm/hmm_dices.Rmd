@@ -1,7 +1,7 @@
 ---
 title: "HMMs en el casino"
-author: "Victor Gallego, Roi Naveiro"
-date: "16/5/2019"
+author: "Luis Roberto Mercado Diaz"
+date: "09/06/2022"
 output: html_document
 ---
 
